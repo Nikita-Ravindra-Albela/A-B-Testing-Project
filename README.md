@@ -54,7 +54,7 @@ Z = -2.94
 
 p = 0.0032
 
-✔ Interpretation
+## Interpretation
 
 p < 0.05 → statistically significant
 
