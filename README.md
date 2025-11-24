@@ -7,7 +7,7 @@ Synthetic dataset of 2,000 website visitors
 
 Group A = Control (old design)
 
-Group B = Variant (new design)
+Group B = Variant (new design) 
 
 Conversion rate is the KPI
 
