@@ -1,5 +1,5 @@
 ## A-B-Testing-Project
-This project demonstrates how to design, execute, and analyze an A/B test using a statistically sound framework. A real-world scenario was simulated: does a new website design improve conversions?
+This project demonstrates a structured approach to A/B testing, including experiment design, sampling strategy, statistical significance testing, and interpretation of results. The core objective was to determine if a redesigned website layout meaningfully improves user conversions.
 
 ## Project Overview
 
